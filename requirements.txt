@@ -1,0 +1,6 @@
+discord.py
+aiohttp
+aiosqlite
+Pillow
+groq
+google-genai
