@@ -1,2 +1,7 @@
-README.md
-requirements.txt
+.env
+*.db
+court_system.db
+__pycache__/
+*.pyc
+.venv/
+*.ttf
